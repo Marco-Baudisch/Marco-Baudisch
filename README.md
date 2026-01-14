@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Marco👋
 
-<!--
-**Marco-Baudisch/Marco-Baudisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Future Computer Science Student (PiBS) | AI in Software Engineering
+Currently on a Gap Year (Work & Travel) in Canada and relocating to Switzerland in September.
 
-Here are some ideas to get you started:
+## About Me:
+- **Origin:** From Germany (Native Speaker)
+- **Interest:** Passionate about solving problems through Software Engineering and leveraging AI to create smarter applications.
+- **Goal:** Starting my professional journey in the Swiss IT sector through the PiBS program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack (Currently Learning):
+- **Languages:** Python, HTML
+- **Frameworks:** Kivy, KivyMD
+- **Tools:** PyCharm
+
+## Connect with me:
+- https://www.linkedin.com/in/marco-baudisch-mmb/
+- Marco.vivit.de
