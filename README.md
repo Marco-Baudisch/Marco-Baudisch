@@ -15,4 +15,3 @@ Currently on a Gap Year (Work & Travel) in Canada and relocating to Switzerland 
 
 ## Connect with me:
 - https://www.linkedin.com/in/marco-baudisch-mmb/
-- Marco.vivit.de
